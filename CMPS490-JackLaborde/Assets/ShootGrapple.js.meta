@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 808088ca33a1f50479d0fc3d8bae2679
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabGrapple: {fileID: 400002, guid: 3b5640991f260ef4d918b6aedd9fbb9e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
